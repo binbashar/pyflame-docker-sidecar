@@ -10,8 +10,6 @@ RUN apk add --no-cache libstdc++ perl \
                libtool \
                linux-headers \
                make \ 
-               python2 \
-               python2-dev \
                python3 \
                python3-dev \
     && git clone --single-branch \
