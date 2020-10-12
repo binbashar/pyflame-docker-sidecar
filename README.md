@@ -24,3 +24,15 @@ pyflame -p <application pid> | flamegraph.pl > flamegraph.svg
 ```
 
 I'm still figuring out a better way of running it automatically somehow. Raise an issue if you have an idea.
+
+---
+
+# Release Management
+### CircleCi PR auto-release job
+<div align="left">
+  <img src="https://raw.githubusercontent.com/binbashar/pyflame-docker-sidecar/master/%40doc/figures/circleci.png" alt="leverage-circleci" width="130"/>
+</div>
+
+- [**pipeline-job**](https://app.circleci.com/pipelines/github/binbashar/pyflame-docker-sidecar) (**NOTE:** Will only run after merged PR)
+- [**releases**](https://github.com/binbashar/pyflame-docker-sidecar/releases) 
+- [**changelog**](https://github.com/binbashar/pyflame-docker-sidecar/blob/master/CHANGELOG.md) 
