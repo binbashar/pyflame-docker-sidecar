@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+<a name="v0.0.2"></a>
+## [v0.0.2] - 2020-11-15
+
+- Merge branch 'feature/BBL-313-automation'
+- BBL-440 | upgrading repo to use versioned makefile lib
+
+
 <a name="v0.0.1"></a>
 ## v0.0.1 - 2020-10-13
 
@@ -21,4 +28,5 @@ All notable changes to this project will be documented in this file.
 - Initial commit
 
 
-[Unreleased]: https://github.com/binbashar/pyflame-docker-sidecar/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/binbashar/pyflame-docker-sidecar/compare/v0.0.2...HEAD
+[v0.0.2]: https://github.com/binbashar/pyflame-docker-sidecar/compare/v0.0.1...v0.0.2
